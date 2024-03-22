@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)
 
-- ⚡ Fun fact **I look completely different without my glasses 😂**
+- ⚡ Fun fact **I look completely different with my glasses 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
