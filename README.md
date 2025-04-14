@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natnael Alemseged Astaw</h1>  
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>  
   
-- 🌱 I’m currently learning **Netx js + Laravel**  
+- 🌱 I’m currently learning **Next js + Laravel**  
   
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)  
   
