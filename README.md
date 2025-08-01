@@ -13,18 +13,64 @@ I'm a full-stack developer based in Ethiopia, dedicated to transforming ideas in
 - 💬 **Ask me about**: Full-stack development, mobile apps, or API design
 - ⚡ **Fun fact**: I’m a completely different person without my glasses! 😎
 
+---
+
 ## 🛠️ Tech Stack
 
-Here’s a snapshot of the tools and technologies I work with:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consul-F24E1E?style=for-the-badge&logo=consul&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+<!-- ## 🛠️ Tech Stack
 
-| **Frontend** | **Backend** | **Mobile** | **DevOps & Tools** | **Databases** |
-|--------------|-------------|------------|--------------------|---------------|
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5 | ![FastAPI](https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg) FastAPI | ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Flutter | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) Docker | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL |
-| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3 | ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) Go | ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) Dart | ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg) AWS | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) MongoDB |
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP | | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git | |
-| ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) Bootstrap | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C# | | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) Postman | |
-| ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) Next.js | | | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) Figma | |
-| | | | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux | |
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+</p>
+
+### 💾 Databases & BaaS
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consul-F24E1E?style=for-the-badge&logo=consul&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p> -->
+---
 
 ## 📂 Featured Projects
 
@@ -36,20 +82,22 @@ Here are some projects I'm proud of:
 
 *Check out my [GitHub repositories](https://github.com/natnael-alemseged?tab=repositories) for more!*
 
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&include_all_commits=true&theme=dark" alt="Natnael's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael-alemseged&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,jupyter%20notebook&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&include_all_commits=true&theme=dark" alt="Natnael's GitHub Stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-alemseged&show_icons=true&locale=en&layout=compact&theme=dark" alt="natnael-alemseged" />
 </p>
+
+---
 
 ## 📫 Get in Touch
 
 Let's connect and build something amazing together!
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email**: [natiaabaydam@gmail.com](mailto:your.email@example.com)
 - 🐦 **Twitter**: [@notaznation](https://twitter.com/notaznation)
 - 💼 **LinkedIn**: [Natnael Alemseged](https://www.linkedin.com/in/natnael-alemseged/)
 - 📄 **Resume**: [View Europass CV](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)
