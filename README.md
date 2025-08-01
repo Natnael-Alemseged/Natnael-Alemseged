@@ -87,8 +87,8 @@ Here are some projects I'm proud of:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&include_all_commits=true&theme=dark" alt="Natnael's GitHub Stats"/>
-<!--  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-alemseged&show_icons=true&locale=en&layout=compact&theme=dark" alt="natnael-alemseged" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&include_all_commits=true&theme=dark" alt="Natnael's GitHub Stats"/> -->
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-alemseged&show_icons=true&locale=en&layout=compact&theme=dark" alt="natnael-alemseged" />
 </p>
 
 ---
