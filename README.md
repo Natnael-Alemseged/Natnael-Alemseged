@@ -21,6 +21,15 @@ I enjoy building apps in **Next.js**, **Flutter**, and **FastAPI**, and I'm pass
 <a href="https://twitter.com/notaznation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notaznation" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/natnael-alemseged/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natnael-alemseged/" height="30" width="40" /></a>  
 </p>  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael-alemseged" alt="GitHub Streak" />
+</p>
+
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
