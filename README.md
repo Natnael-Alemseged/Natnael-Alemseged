@@ -44,9 +44,7 @@ I look completely different without my glasses 😂
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-alemseged&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+
 
 
   
