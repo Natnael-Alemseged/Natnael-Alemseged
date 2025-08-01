@@ -2,18 +2,9 @@
 <h1 align="center">Hi 👋, I'm Natnael Alemseged Astaw</h1>  
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>  
 
-<h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!">
-    
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!">
-    
-    <img alt="Typing animation fallback" 
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!">
-  </picture>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!" alt="Typing SVG" />
+</p>
 
 
 <!-- Animated GitHub banner image -->
