@@ -2,16 +2,14 @@
 <h1 align="center">Hi 👋, I'm Natnael Alemseged Astaw</h1>  
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!" alt="Typing SVG" />
-</p>
-
-
-<!-- Animated GitHub banner image -->
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-  
-- 🌱 I’m currently learning **Next js + Laravel**  
+  ## 🚀 About Me
+
+I'm a full-stack developer and software engineer based in Ethiopia 🇪🇹.  
+I enjoy building apps in **Next.js**, **Flutter**, and **FastAPI**, and I'm passionate about clean UI, AI applications, and solving real-world problems with code.
+
+- 🌱 I’m currently learning **Next js + Fast API**  
   
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)  
   
