@@ -1,34 +1,40 @@
-<!-- Heading introducing you -->
-<h1 align="center">Hi 👋, I'm Natnael Alemseged Astaw</h1>  
-<h3 align="center">A passionate Software Engineer from Ethiopia</h3>  
+<h1 align="center">Hi 👋, I'm Natnael Alemseged Astaw</h1>
+<h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-  ## 🚀 About Me
+## 🚀 About Me
+I'm a full-stack developer based in Ethiopia 🇪🇹. I love turning ideas into products using tools like **Next.js**, **Flutter**, and **FastAPI**.
 
-I'm a full-stack developer and software engineer based in Ethiopia 🇪🇹.  
-I enjoy building apps in **Next.js**, **Flutter**, and **FastAPI**, and I'm passionate about clean UI, AI applications, and solving real-world problems with code.
+## 🌱 Currently Learning
+- ⚙️ Next.js
+- 🧠 FastAPI
+- ☁️ DevOps basics
 
-- 🌱 I’m currently learning **Next js + Fast API**  
-  
-📄 Know about my experiences [My CV](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)
-  
-  
-- ⚡ Fun fact **I look completely different without my glasses 😂**  
-  
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/notaznation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notaznation" height="30" width="40" /></a>  
-<a href="https://www.linkedin.com/in/natnael-alemseged/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natnael-alemseged/" height="30" width="40" /></a>  
-</p>  
+## 📄 My Resume
+- [View Europass CV](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)
+
+## ⚡ Fun Fact
+I look completely different without my glasses 😂
+
+## 📫 Connect with Me
+
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/notaznation)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/natnael-alemseged/)
+
+## 🧰 Languages and Tools
+
+[All your icons go here — your current list is great]
+
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-alemseged&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael-alemseged" alt="GitHub Streak" />
-</p>
 
   
 <h3 align="left">Languages and Tools:</h3>  
