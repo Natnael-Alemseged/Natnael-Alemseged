@@ -2,22 +2,19 @@
 <h1 align="center">Hi 👋, I'm Natnael Alemseged Astaw</h1>  
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>  
 
-<!-- Typing animation that changes based on the user's theme (dark/light) -->
-<h1>
+<h1 align="center">
   <picture>
-    <!-- Dark mode version of the typing SVG -->
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!">
     
-    <!-- Light mode version of the typing SVG -->
-  
     <source media="(prefers-color-scheme: light)" 
             srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!">
     
-    <!-- Fallback image if the browser doesn't support <source> or fails to load SVG -->
-    <img alt="Typing animation fallback" src="http://LIGHT_IMAGE_URL.png">
+    <img alt="Typing animation fallback" 
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Natnael+Alemseged!">
   </picture>
 </h1>
+
 
 <!-- Animated GitHub banner image -->
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
