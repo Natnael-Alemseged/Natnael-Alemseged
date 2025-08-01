@@ -11,7 +11,8 @@ I enjoy building apps in **Next.js**, **Flutter**, and **FastAPI**, and I'm pass
 
 - 🌱 I’m currently learning **Next js + Fast API**  
   
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)  
+📄 Know about my experiences [My CV](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)
+  
   
 - ⚡ Fun fact **I look completely different without my glasses 😂**  
   
