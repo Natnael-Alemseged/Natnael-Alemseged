@@ -1,6 +1,6 @@
-# 👋 Natnael Alemseged Astaw
+# <div align="center">👋 Natnael Alemseged Astaw</div>
 
-**Full-Stack Software Engineer from Ethiopia 🇪🇹** | Passionate about crafting innovative solutions with code
+<div align="center">**Full-Stack Software Engineer from Ethiopia 🇪🇹** | Building innovative solutions with code</div>
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
