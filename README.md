@@ -82,6 +82,10 @@ Here are some projects I'm proud of:
 
 *Check out my [GitHub repositories](https://github.com/natnael-alemseged?tab=repositories) for more!*
 
+<div align="center">
+  **Show some ❤️ by starring some of the repositories!**
+</div>
+
 ---
 
 ## 📊 GitHub Stats
