@@ -36,10 +36,14 @@ Here are some projects I'm proud of:
 
 *Check out my [GitHub repositories](https://github.com/natnael-alemseged?tab=repositories) for more!*
 
+
+
 ## 📊 GitHub Stats
 
-![Natnael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natnael-alemseged&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natnael-alemseged&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael-alemseged&include_all_commits=true&theme=dark" alt="Natnael's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael-alemseged&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,jupyter%20notebook&theme=dark" alt="Top Languages"/>
+</p>
 
 ## 📫 Get in Touch
 
