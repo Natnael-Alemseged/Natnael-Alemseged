@@ -1,6 +1,6 @@
 # <div align="center">Hi👋, Natnael Alemseged Astaw</div>
 
-<div align="center"><h2>Full-Stack Software Engineer from Ethiopia 🇪🇹 | Building innovative solutions with code</h2></div>
+<div align="center"><h2>Full-Stack Software Engineer from Ethiopia <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f9.svg" width="20" style="vertical-align: middle;" /> | Building innovative solutions with code</h2></div>
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
