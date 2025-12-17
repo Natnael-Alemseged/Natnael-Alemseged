@@ -104,7 +104,7 @@ Let's connect and build something amazing together!
 - 📧 **Email**: [natiaabaydam@gmail.com](mailto:your.email@example.com)
 - 🐦 **Twitter**: [@notaznation](https://twitter.com/notaznation)
 - 💼 **LinkedIn**: [Natnael Alemseged](https://www.linkedin.com/in/natnael-alemseged/)
-- 💼 **Portfolio**: [Natnael Alemseged](https://natnaelalemseged.com/)
+- 💼 **Portfolio**: [natnaelalemseged.com](https://natnaelalemseged.com/)
 - 📄 **Resume**: [View Europass CV](https://europa.eu/europass/eportfolio/screen/share/3d764e43-839f-428d-85df-2e74f3256725?lang=en)
 
 ---
