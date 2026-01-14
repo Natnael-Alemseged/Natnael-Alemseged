@@ -58,13 +58,6 @@ Here are some projects I'm proud of:
 
 ---
 
-## 📊 GitHub Stats
- 
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-alemseged&show_icons=true&locale=en&layout=compact&theme=dark" alt="natnael-alemseged" />
- 
-
----
 
 ## 📫 Get in Touch
 
